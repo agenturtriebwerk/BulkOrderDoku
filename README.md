@@ -34,7 +34,7 @@ Mit dem Plugin „Massenbestellung“ wird eine zusätzliche Liste Ansicht für 
 
 
 # Plugin-Einstellungen
-![Grundeinstellungen](http://doku.agentur-triebwerk-shop.de/bulkorder/grundeinstellungen_bulkorder.png)
+![Grundeinstellungen](http://doku.agentur-triebwerk-shop.de/bulkorder/grundeinstellungen_bulkorder_2.png)
 ## Einstellungen
 * Nur für eingeloggte Kunden : ja/nein
   * Legen Sie fest ob die „Massenbestellung“ nur eingeloggten Kunden oder auch nicht eingeloggten Besuchern zur Verfügung steht
