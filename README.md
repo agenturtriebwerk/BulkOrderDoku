@@ -65,7 +65,8 @@ Legen Sie fest ob im Headermenü der Navigationspunkt „Massenbestellung“ ang
 
 ## Plugin-Anpassung  
 ### Bezeichnungen ändern
-Sie können die verwendeten Standard-Bezeichnung des Punktes (und dessen englische Übersetzung) ändern unter: Einstellungen > Textbausteine. 
+Sie können die verwendeten Standard-Bezeichnung des Punktes (und dessen englische Übersetzung) ändern unter: 
+Einstellungen > Textbausteine. 
 
 ![BulkOrder_textbausteine.jpg](http://doku.agentur-triebwerk-shop.de/bulkorder/BulkOrder_textbausteine.jpg)
 
@@ -76,7 +77,8 @@ Sie können die verwendeten Standard-Bezeichnung des Punktes (und dessen englisc
 Hier werden die bekannten Unverträglichkeiten gelistet.
 Wenn Sie Fragen zur Plugin-Verträglichkeit der Massenbestellung haben, kontaktieren Sie gerne vorab unseren Support: shopware@agentur-triebwerk.de
 
-#### Shopware Developer Toolbar: wenn die Toolbar für das Frontend aktiviert ist, kann es zu Problemen mit dem verfügbaren Speicher von PHP kommen
+* Shopware Developer Toolbar: 
+Wenn die Toolbar für das Frontend aktiviert ist, kann es zu Problemen mit dem verfügbaren Speicher von PHP kommen
  
 
 
