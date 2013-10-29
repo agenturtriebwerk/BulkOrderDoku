@@ -11,7 +11,7 @@ Mit dem Plugin „Massenbestellung“ wird eine zusätzliche Liste Ansicht für 
 # Installation
 ## Manueller Upload
 1. Extrahieren Sie die Inhalte aus der heruntergeladenen ZIP-Datei.
-2. Laden Sie den Ordner /TriebwBulkOrder per FTP auf Ihren Webserver in den Ordner /engine/Shopware/Plugins/Local/Backend/.
+2. Laden Sie den Ordner /TriebwBulkOrder per FTP auf Ihren Webserver in den Ordner /engine/Shopware/Plugins/Local/Frontend/.
 3. Loggen Sie sich nun in Ihr Shopware-Backend ein.
 4. Wählen Sie „Einstellungen“ -> „Plugin-Manager“.
 5. Wählen Sie im „Plugin-Manager“ im linken Menü „Alle Erweiterungen“.
