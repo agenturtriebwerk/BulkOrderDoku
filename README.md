@@ -8,8 +8,8 @@ Beschreibung und Download im Shopware Community Store: http://store.shopware.de/
 Mit dem Plugin „Massenbestellung“ wird eine zusätzliche Liste Ansicht für Artikel bereitgestellt aus der Shopkunden direkt bestellen können. 
 
 
-# Installation
-## Manueller Upload
+## Installation
+### Manueller Upload
 1. Extrahieren Sie die Inhalte aus der heruntergeladenen ZIP-Datei.
 2. Laden Sie den Ordner /TriebwBulkOrder per FTP auf Ihren Webserver in den Ordner /engine/Shopware/Plugins/Local/Frontend/.
 3. Loggen Sie sich nun in Ihr Shopware-Backend ein.
@@ -20,7 +20,7 @@ Mit dem Plugin „Massenbestellung“ wird eine zusätzliche Liste Ansicht für 
 8. Im sich nun öffnenden Pop-up wählen Sie „Plugin aktivieren“, nehmen die gewünschten Grundeinstellungen vor und klicken auf „Plugin-Einstellungen speichern“
 
 
-## Installation über den Community Store
+### Installation über den Community Store
 1. Loggen Sie sich nun in Ihr Shopware-Backend ein.
 2. Wählen Sie „Einstellungen“ -> „Plugin-Manager“.
 3. Wählen Sie den Tab „Community Store“ und suchen „Massenbestellung“.
@@ -28,41 +28,42 @@ Mit dem Plugin „Massenbestellung“ wird eine zusätzliche Liste Ansicht für 
 5. Öffnen Sie im Plugin-Manager den Tab „Einkäufe / Erweiterung“ und folgen dem manuellen Upload ab Schritt 5.
 
 
-## Konfiguration des Plugins
+### Konfiguration des Plugins
 1. Öffnen Sie die Grundeinstellungen und wählen dort „Weitere Einstellungen“ > „Massenbestellung“.
 2. Nehmen Sie die gewünschten Anpassungen vor und klicken auf „Speichern“.
 
 
-# Plugin-Einstellungen
+## Plugin-Einstellungen
 ![Grundeinstellungen](http://doku.agentur-triebwerk-shop.de/bulkorder/grundeinstellungen_bulkorder_2.png)
-## Einstellungen
-### Nur für eingeloggte Kunden
+### Einstellungen
+#### Nur für eingeloggte Kunden
 Legen Sie fest ob die „Massenbestellung“ nur eingeloggten Kunden oder auch nicht eingeloggten Besuchern zur Verfügung steht.
 
-### Auf diese Kundengruppen beschränken
-Beispiele:
+#### Auf diese Kundengruppen beschränken
+Legen Sie fest ob die „Massenbestellung“ nur bestimmten Kundengruppen zur Verfügung steht. Beispiele:
 * leeres Textfeld =  Massenbestellung  steht allen Kundengruppen zur Verfügung
 * „H“ = Massenbestellung   steht nur der Kundengruppe  „B2B / Händler netto“ zur Verfügung
 * „H|EK“ = Massenbestellung   steht der Kundengruppe  „B2B / Händler netto“ und der Kundengruppe  „Shopkunden“ zur Verfügung
 
-### Umschalter für Listendarstellung aktivieren: ja/nein
+#### Umschalter für Listendarstellung aktivieren: ja/nein
 Legen Sie fest ob Nutzer in den Artikel-Kategorien – neben dem Standard „Tabellen-Ansicht“ und  „Listen-Ansicht“ – in die „Massenbestellungs-Ansicht“ wechseln können.
 
-### Menüpunkt im Headermenü anzeigen: ja/nein
+#### Menüpunkt im Headermenü anzeigen: ja/nein
 Legen Sie fest ob im Headermenü der Navigationspunkt „Massenbestellung“ angezeigt werden soll. 
 
-# Plugin-Anpassung  
-## Bezeichnungen ändern
+## Plugin-Anpassung  
+### Bezeichnungen ändern
 Sie können die verwendeten Standard-Bezeichnung des Punktes (und dessen englische Übersetzung) ändern unter: Einstellungen > Textbausteine. 
 
 
-# Versionshistorie
+## Versionshistorie
 1.0 Erste öffentliche Pluginversion
 
-# Unverträglichkeiten
+## Unverträglichkeiten
 Hier werden die bekannten Unverträglichkeiten gelistet.
 Wenn Sie Fragen zur Plugin-Verträglichkeit der Lieferampel haben, kontaktieren Sie gerne vorab unseren Support: shopware@agentur-triebwerk.de
-* Shopware Developer Toolbar: wenn die Toolbar für das Frontend aktiviert ist, kann es zu Problemen mit dem verfügbaren Speicher von PHP kommen
+
+#### Shopware Developer Toolbar: wenn die Toolbar für das Frontend aktiviert ist, kann es zu Problemen mit dem verfügbaren Speicher von PHP kommen
  
 
 
