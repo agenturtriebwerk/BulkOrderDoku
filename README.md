@@ -1,8 +1,8 @@
-Massenbestellung Dokumentation (DeliveryLights)
+Massenbestellung Dokumentation (BulkOrder)
 ==================
 
 Massenbestellung ist ein Shopware-Plugin und kann über den Shopware Community Store bezogen werden: 
-Beschreibung und Download im Shopware Community Store.
+Beschreibung und Download im Shopware Community Store: http://store.shopware.de/template-design/massenbestellung
 
 # Beschreibung
 Mit dem Plugin „Massenbestellung“ wird eine zusätzliche Liste Ansicht für Artikel bereitgestellt aus der Shopkunden direkt bestellen können. 
@@ -43,7 +43,7 @@ Mit dem Plugin „Massenbestellung“ wird eine zusätzliche Liste Ansicht für 
   * leeres Textfeld =  Massenbestellung  steht allen Kundengruppen zur Verfügung
   *	„H“ = Massenbestellung   steht nur der Kundengruppe  „B2B / Händler netto“ zur Verfügung
   *	„H|EK“ = Massenbestellung   steht der Kundengruppe  „B2B / Händler netto“ und der Kundengruppe  „Shopkunden“ zur Verfügung
-* Darstellungsschalter aktivieren: ja/nein
+* Umschalter für Listendarstellung aktivieren: ja/nein
   * Legen Sie fest ob Nutzer in den Artikel-Kategorien – neben dem Standard „Tabellen-Ansicht“ und  „Listen-Ansicht“ – in die „Massenbestellungs-Ansicht“ wechseln können.
 * Menüpunkt im Headermenü anzeigen: ja/nein
   * Legen Sie fest ob im Headermenü der Navigationspunkt „Massenbestellung“ angezeigt werden soll. 
