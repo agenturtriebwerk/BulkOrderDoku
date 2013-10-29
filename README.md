@@ -1,10 +1,10 @@
-Massenbestellung Dokumentation (BulkOrder)
+Massenbestellung (BulkOrder)
 ==================
 
 Massenbestellung ist ein Shopware-Plugin und kann über den Shopware Community Store bezogen werden: 
 Beschreibung und Download im Shopware Community Store: http://store.shopware.de/template-design/massenbestellung
 
-# Beschreibung
+### Beschreibung
 Mit dem Plugin „Massenbestellung“ wird eine zusätzliche Liste Ansicht für Artikel bereitgestellt aus der Shopkunden direkt bestellen können. 
 
 
@@ -39,28 +39,35 @@ Mit dem Plugin „Massenbestellung“ wird eine zusätzliche Liste Ansicht für 
 Legen Sie fest ob die „Massenbestellung“ nur eingeloggten Kunden oder auch nicht eingeloggten Besuchern zur Verfügung steht.
 
 #### Auf diese Kundengruppen beschränken
+![BulkOrder_einstellungen_kundengruppen.jpg](http://doku.agentur-triebwerk-shop.de/bulkorder/BulkOrder_einstellungen_kundengruppen.jpg)
 Legen Sie fest ob die „Massenbestellung“ nur bestimmten Kundengruppen zur Verfügung steht. Beispiele:
 * leeres Textfeld =  Massenbestellung  steht allen Kundengruppen zur Verfügung
 * „H“ = Massenbestellung   steht nur der Kundengruppe  „B2B / Händler netto“ zur Verfügung
 * „H|EK“ = Massenbestellung   steht der Kundengruppe  „B2B / Händler netto“ und der Kundengruppe  „Shopkunden“ zur Verfügung
 
-#### Umschalter für Listendarstellung aktivieren: ja/nein
+#### Umschalter für Listendarstellung aktivieren
+![BulkOrder_einstellungen_listview_switch.jpg](http://doku.agentur-triebwerk-shop.de/bulkorder/BulkOrder_einstellungen_listview_switch.jpg)
+
+![BulkOrder_frontend_listview_switch.jpg](http://doku.agentur-triebwerk-shop.de/bulkorder/BulkOrder_frontend_listview_switch.jpg)
 Legen Sie fest ob Nutzer in den Artikel-Kategorien – neben dem Standard „Tabellen-Ansicht“ und  „Listen-Ansicht“ – in die „Massenbestellungs-Ansicht“ wechseln können.
 
-#### Menüpunkt im Headermenü anzeigen: ja/nein
+#### Menüpunkt im Headermenü anzeigen
+![BulkOrder_einstellungen_menuepunkt.jpg](http://doku.agentur-triebwerk-shop.de/bulkorder/BulkOrder_einstellungen_menuepunkt.jpg)
+
+![BulkOrder_frontend_menuepunkt.jpg](http://doku.agentur-triebwerk-shop.de/bulkorder/BulkOrder_frontend_menuepunkt.jpg)
 Legen Sie fest ob im Headermenü der Navigationspunkt „Massenbestellung“ angezeigt werden soll. 
 
 ## Plugin-Anpassung  
 ### Bezeichnungen ändern
 Sie können die verwendeten Standard-Bezeichnung des Punktes (und dessen englische Übersetzung) ändern unter: Einstellungen > Textbausteine. 
-
+![BulkOrder_textbausteine.jpg](http://doku.agentur-triebwerk-shop.de/bulkorder/BulkOrder_textbausteine.jpg)
 
 ## Versionshistorie
 1.0 Erste öffentliche Pluginversion
 
 ## Unverträglichkeiten
 Hier werden die bekannten Unverträglichkeiten gelistet.
-Wenn Sie Fragen zur Plugin-Verträglichkeit der Lieferampel haben, kontaktieren Sie gerne vorab unseren Support: shopware@agentur-triebwerk.de
+Wenn Sie Fragen zur Plugin-Verträglichkeit der Massenbestellung haben, kontaktieren Sie gerne vorab unseren Support: shopware@agentur-triebwerk.de
 
 #### Shopware Developer Toolbar: wenn die Toolbar für das Frontend aktiviert ist, kann es zu Problemen mit dem verfügbaren Speicher von PHP kommen
  
