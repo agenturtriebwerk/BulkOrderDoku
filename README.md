@@ -36,21 +36,24 @@ Mit dem Plugin „Massenbestellung“ wird eine zusätzliche Liste Ansicht für 
 # Plugin-Einstellungen
 ![Grundeinstellungen](http://doku.agentur-triebwerk-shop.de/bulkorder/grundeinstellungen_bulkorder_2.png)
 ## Einstellungen
-* Nur für eingeloggte Kunden : ja/nein
-  * Legen Sie fest ob die „Massenbestellung“ nur eingeloggten Kunden oder auch nicht eingeloggten Besuchern zur Verfügung steht
-* Auf diese Kundengruppen beschränken: [leeres Textfeld]
-  * Beispiele:
-  * leeres Textfeld =  Massenbestellung  steht allen Kundengruppen zur Verfügung
-  *	„H“ = Massenbestellung   steht nur der Kundengruppe  „B2B / Händler netto“ zur Verfügung
-  *	„H|EK“ = Massenbestellung   steht der Kundengruppe  „B2B / Händler netto“ und der Kundengruppe  „Shopkunden“ zur Verfügung
-* Umschalter für Listendarstellung aktivieren: ja/nein
-  * Legen Sie fest ob Nutzer in den Artikel-Kategorien – neben dem Standard „Tabellen-Ansicht“ und  „Listen-Ansicht“ – in die „Massenbestellungs-Ansicht“ wechseln können.
-* Menüpunkt im Headermenü anzeigen: ja/nein
-  * Legen Sie fest ob im Headermenü der Navigationspunkt „Massenbestellung“ angezeigt werden soll. 
+### Nur für eingeloggte Kunden
+Legen Sie fest ob die „Massenbestellung“ nur eingeloggten Kunden oder auch nicht eingeloggten Besuchern zur Verfügung steht.
+
+### Auf diese Kundengruppen beschränken
+Beispiele:
+* leeres Textfeld =  Massenbestellung  steht allen Kundengruppen zur Verfügung
+* „H“ = Massenbestellung   steht nur der Kundengruppe  „B2B / Händler netto“ zur Verfügung
+* „H|EK“ = Massenbestellung   steht der Kundengruppe  „B2B / Händler netto“ und der Kundengruppe  „Shopkunden“ zur Verfügung
+
+### Umschalter für Listendarstellung aktivieren: ja/nein
+Legen Sie fest ob Nutzer in den Artikel-Kategorien – neben dem Standard „Tabellen-Ansicht“ und  „Listen-Ansicht“ – in die „Massenbestellungs-Ansicht“ wechseln können.
+
+### Menüpunkt im Headermenü anzeigen: ja/nein
+Legen Sie fest ob im Headermenü der Navigationspunkt „Massenbestellung“ angezeigt werden soll. 
 
 # Plugin-Anpassung  
 ## Bezeichnungen ändern
-Sie können die verwendeten Standard-Bezeichnung – und deren englische Übersetzung - des Punktes unter Einstellungen>Textbausteine ändern.
+Sie können die verwendeten Standard-Bezeichnung des Punktes (und dessen englische Übersetzung) ändern unter: Einstellungen > Textbausteine. 
 
 
 # Versionshistorie
