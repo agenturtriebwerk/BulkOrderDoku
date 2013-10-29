@@ -35,31 +35,38 @@ Mit dem Plugin „Massenbestellung“ wird eine zusätzliche Liste Ansicht für 
 
 ## Plugin-Einstellungen
 #### Nur für eingeloggte Kunden
-![BulkOrder_einstellungen_eingeloggte_kunden.jpg](http://doku.agentur-triebwerk-shop.de/bulkorder/BulkOrder_einstellungen_eingeloggte_kunden.jpg)
 Legen Sie fest ob die „Massenbestellung“ nur eingeloggten Kunden oder auch nicht eingeloggten Besuchern zur Verfügung steht.
 
+![BulkOrder_einstellungen_eingeloggte_kunden.jpg](http://doku.agentur-triebwerk-shop.de/bulkorder/BulkOrder_einstellungen_eingeloggte_kunden.jpg)
+
+
 #### Auf diese Kundengruppen beschränken
-![BulkOrder_einstellungen_kundengruppen.jpg](http://doku.agentur-triebwerk-shop.de/bulkorder/BulkOrder_einstellungen_kundengruppen.jpg)
 Legen Sie fest ob die „Massenbestellung“ nur bestimmten Kundengruppen zur Verfügung steht. Beispiele:
 * leeres Textfeld =  Massenbestellung  steht allen Kundengruppen zur Verfügung
 * „H“ = Massenbestellung   steht nur der Kundengruppe  „B2B / Händler netto“ zur Verfügung
 * „H|EK“ = Massenbestellung   steht der Kundengruppe  „B2B / Händler netto“ und der Kundengruppe  „Shopkunden“ zur Verfügung
 
+![BulkOrder_einstellungen_kundengruppen.jpg](http://doku.agentur-triebwerk-shop.de/bulkorder/BulkOrder_einstellungen_kundengruppen.jpg)
+
 #### Umschalter für Listendarstellung aktivieren
+Legen Sie fest ob Nutzer in den Artikel-Kategorien – neben dem Standard „Tabellen-Ansicht“ und  „Listen-Ansicht“ – in die „Massenbestellungs-Ansicht“ wechseln können.
+
 ![BulkOrder_einstellungen_listview_switch.jpg](http://doku.agentur-triebwerk-shop.de/bulkorder/BulkOrder_einstellungen_listview_switch.jpg)
 
 ![BulkOrder_frontend_listview_switch.jpg](http://doku.agentur-triebwerk-shop.de/bulkorder/BulkOrder_frontend_listview_switch.jpg)
-Legen Sie fest ob Nutzer in den Artikel-Kategorien – neben dem Standard „Tabellen-Ansicht“ und  „Listen-Ansicht“ – in die „Massenbestellungs-Ansicht“ wechseln können.
+
 
 #### Menüpunkt im Headermenü anzeigen
+Legen Sie fest ob im Headermenü der Navigationspunkt „Massenbestellung“ angezeigt werden soll. 
+
 ![BulkOrder_einstellungen_menuepunkt.jpg](http://doku.agentur-triebwerk-shop.de/bulkorder/BulkOrder_einstellungen_menuepunkt.jpg)
 
 ![BulkOrder_frontend_menuepunkt.jpg](http://doku.agentur-triebwerk-shop.de/bulkorder/BulkOrder_frontend_menuepunkt.jpg)
-Legen Sie fest ob im Headermenü der Navigationspunkt „Massenbestellung“ angezeigt werden soll. 
 
 ## Plugin-Anpassung  
 ### Bezeichnungen ändern
 Sie können die verwendeten Standard-Bezeichnung des Punktes (und dessen englische Übersetzung) ändern unter: Einstellungen > Textbausteine. 
+
 ![BulkOrder_textbausteine.jpg](http://doku.agentur-triebwerk-shop.de/bulkorder/BulkOrder_textbausteine.jpg)
 
 ## Versionshistorie
