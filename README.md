@@ -71,6 +71,10 @@ Einstellungen > Textbausteine.
 ![BulkOrder_textbausteine.jpg](http://doku.agentur-triebwerk-shop.de/bulkorder/BulkOrder_textbausteine.jpg)
 
 ## Versionshistorie
+1.0.1 Anpassung für Shopware 4.1.3 und 4.2.
+* Template-Anpassungen (box_article_bulk.tpl)
+* Anpassung des Controllers an neue/angepasste Shopwarefunktionen
+
 1.0 Erste öffentliche Pluginversion
 
 ## Unverträglichkeiten
