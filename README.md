@@ -2,10 +2,16 @@ Massenbestellung (BulkOrder)
 ==================
 
 Massenbestellung ist ein Shopware-Plugin und kann über den Shopware Community Store bezogen werden: 
-Beschreibung und Download im Shopware Community Store: http://store.shopware.de/template-design/massenbestellung
+Beschreibung und Download im Shopware Community Store.
+
+Deutsch: http://store.shopware.com/triebw00878/massenbestellung.html
+English: http://store.shopware.com/en/triebw00878/bulk-order.html
 
 ### Beschreibung
-Mit dem Plugin „Massenbestellung“ wird eine zusätzliche Liste Ansicht für Artikel bereitgestellt aus der Shopkunden direkt bestellen können. 
+Mit dem Plugin „Massenbestellung“ wird eine zusätzliche Listen-Ansicht für Artikel bereitgestellt. Aus dieser Ansicht können Kunden direkt mehrere Artikel in den Warenkorb legen. 
+
+### Demo
+Eine Frontend-Demo von "Massenbestllung" finden Sie hier: http://demo.agentur-triebwerk-shop.de/
 
 
 ## Installation
