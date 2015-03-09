@@ -44,7 +44,7 @@ Eine Frontend-Demo von "Massenbestllung" finden Sie hier: http://demo.agentur-tr
 #### Nur für eingeloggte Kunden
 Legen Sie fest ob die „Massenbestellung“ nur eingeloggten Kunden oder auch nicht eingeloggten Besuchern zur Verfügung steht.
 
-![BulkOrder_einstellungen_eingeloggte_kunden.jpg](http://doku.agentur-triebwerk-shop.de/bulkorder/BulkOrder_einstellungen_eingeloggte_kunden.jpg)
+![BulkOrder_Screen_BE_Eingeloggte_Kunden.jpg](http://doku.agentur-triebwerk-shop.de/bulkorder/BulkOrder_Screen_BE_Eingeloggte_Kunden.jpg)
 
 
 #### Auf diese Kundengruppen beschränken
@@ -53,12 +53,12 @@ Legen Sie fest ob die „Massenbestellung“ nur bestimmten Kundengruppen zur Ve
 * „B2B“ = Massenbestellung   steht nur der Kundengruppe  „B2B / Haendler“ zur Verfügung
 * „B2B|EK“ = Massenbestellung   steht der Kundengruppe  „B2B / Haendler“ und der Kundengruppe  „Shopkunden“ zur Verfügung
 
-![BulkOrder_einstellungen_kundengruppen.jpg](http://doku.agentur-triebwerk-shop.de/bulkorder/BulkOrder_einstellungen_kundengruppen.jpg)
+![BulkOrder_Screen_BE_Kundengruppen.jpg](http://doku.agentur-triebwerk-shop.de/bulkorder/BulkOrder_Screen_BE_Kundengruppen.jpg)
 
 #### Menüpunkt im Headermenü anzeigen
 Legen Sie fest ob im Headermenü der Navigationspunkt „Massenbestellung“ angezeigt werden soll. 
 
-![BulkOrder_einstellungen_menuepunkt.jpg](http://doku.agentur-triebwerk-shop.de/bulkorder/BulkOrder_einstellungen_menuepunkt.jpg)
+![BulkOrder_Screen_BE_Im_Headermenue.jpg](http://doku.agentur-triebwerk-shop.de/bulkorder/BulkOrder_Screen_BE_Im_Headermenue.jpg)
 
 ![BulkOrder_frontend_menuepunkt.jpg](http://doku.agentur-triebwerk-shop.de/bulkorder/BulkOrder_frontend_menuepunkt.jpg)
 
