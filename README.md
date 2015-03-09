@@ -4,7 +4,7 @@ Massenbestellung (BulkOrder)
 Massenbestellung ist ein Shopware-Plugin und kann über den Shopware Community Store bezogen werden: 
 Beschreibung und Download im Shopware Community Store.
 
-Deutsch: http://store.shopware.com/triebw00878/massenbestellung.html
+Deutsch: http://store.shopware.com/triebw00878/massenbestellung.html 
 English: http://store.shopware.com/en/triebw00878/bulk-order.html
 
 ### Beschreibung
@@ -49,10 +49,20 @@ Legen Sie fest ob die „Massenbestellung“ nur eingeloggten Kunden oder auch n
 #### Auf diese Kundengruppen beschränken
 Legen Sie fest ob die „Massenbestellung“ nur bestimmten Kundengruppen zur Verfügung steht. Beispiele:
 * leeres Textfeld =  Massenbestellung  steht allen Kundengruppen zur Verfügung
-* „H“ = Massenbestellung   steht nur der Kundengruppe  „B2B / Händler netto“ zur Verfügung
-* „H|EK“ = Massenbestellung   steht der Kundengruppe  „B2B / Händler netto“ und der Kundengruppe  „Shopkunden“ zur Verfügung
+* „B2B“ = Massenbestellung   steht nur der Kundengruppe  „B2B / Haendler“ zur Verfügung
+* „B2B|EK“ = Massenbestellung   steht der Kundengruppe  „B2B / Haendler“ und der Kundengruppe  „Shopkunden“ zur Verfügung
 
 ![BulkOrder_einstellungen_kundengruppen.jpg](http://doku.agentur-triebwerk-shop.de/bulkorder/BulkOrder_einstellungen_kundengruppen.jpg)
+
+#### Menüpunkt im Headermenü anzeigen
+Legen Sie fest ob im Headermenü der Navigationspunkt „Massenbestellung“ angezeigt werden soll. 
+
+![BulkOrder_einstellungen_menuepunkt.jpg](http://doku.agentur-triebwerk-shop.de/bulkorder/BulkOrder_einstellungen_menuepunkt.jpg)
+
+![BulkOrder_frontend_menuepunkt.jpg](http://doku.agentur-triebwerk-shop.de/bulkorder/BulkOrder_frontend_menuepunkt.jpg)
+
+#### Artikel-Sortierung im Navigationspunkt Massenbestellung
+Legen Sie die Sortier-Eigenschaft für die Artikel im Navigationspunkt Massenbestellung (Kategorie übergreifende Ansicht) fest.
 
 #### Umschalter für Listendarstellung aktivieren
 Legen Sie fest ob Nutzer in den Artikel-Kategorien – neben dem Standard „Tabellen-Ansicht“ und  „Listen-Ansicht“ – in die „Massenbestellungs-Ansicht“ wechseln können.
@@ -61,13 +71,12 @@ Legen Sie fest ob Nutzer in den Artikel-Kategorien – neben dem Standard „Tab
 
 ![BulkOrder_frontend_listview_switch.jpg](http://doku.agentur-triebwerk-shop.de/bulkorder/BulkOrder_frontend_listview_switch.jpg)
 
+#### Bewertungssterne in Listendarstellung ausblenden
+Unterbinden Sie die Anzeige der Bewertungssterne in den Listenansichten von Massenbestellung
 
-#### Menüpunkt im Headermenü anzeigen
-Legen Sie fest ob im Headermenü der Navigationspunkt „Massenbestellung“ angezeigt werden soll. 
 
-![BulkOrder_einstellungen_menuepunkt.jpg](http://doku.agentur-triebwerk-shop.de/bulkorder/BulkOrder_einstellungen_menuepunkt.jpg)
 
-![BulkOrder_frontend_menuepunkt.jpg](http://doku.agentur-triebwerk-shop.de/bulkorder/BulkOrder_frontend_menuepunkt.jpg)
+
 
 ## Plugin-Anpassung  
 ### Bezeichnungen ändern
@@ -77,6 +86,14 @@ Einstellungen > Textbausteine.
 ![BulkOrder_textbausteine.jpg](http://doku.agentur-triebwerk-shop.de/bulkorder/BulkOrder_textbausteine.jpg)
 
 ## Versionshistorie
+
+1.1.0
+- Anzeige der Artikel-Bewertung (Sterne) über Plugin-Konfiguration steuerbar
+- Sortierung im Navigationspunkt "Massenbestellung" (Artikel-Liste über alle Kategorien) wählbar: Nach Name oder nach Artikelnummer
+
+1.0.2
+- Textbausteine in Englisch vorhanden
+
 1.0.1 Anpassung für Shopware 4.1.3 und 4.2.
 * Template-Anpassungen (box_article_bulk.tpl)
 * Anpassung des Controllers an neue/angepasste Shopwarefunktionen
