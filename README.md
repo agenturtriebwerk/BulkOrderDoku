@@ -64,17 +64,20 @@ Legen Sie fest ob im Headermenü der Navigationspunkt „Massenbestellung“ ang
 #### Artikel-Sortierung im Navigationspunkt Massenbestellung
 Legen Sie die Sortier-Eigenschaft für die Artikel im Navigationspunkt Massenbestellung (Kategorie übergreifende Ansicht) fest.
 
+![BulkOrder_Screen_BE_Sortierung.jpg](http://doku.agentur-triebwerk-shop.de/bulkorder/BulkOrder_Screen_BE_Sortierung.jpg)
+
+
 #### Umschalter für Listendarstellung aktivieren
 Legen Sie fest ob Nutzer in den Artikel-Kategorien – neben dem Standard „Tabellen-Ansicht“ und  „Listen-Ansicht“ – in die „Massenbestellungs-Ansicht“ wechseln können.
 
-![BulkOrder_einstellungen_listview_switch.jpg](http://doku.agentur-triebwerk-shop.de/bulkorder/BulkOrder_einstellungen_listview_switch.jpg)
+![BulkOrder_Screen_BE_Umschalter_Liste.jpg](http://doku.agentur-triebwerk-shop.de/bulkorder/BulkOrder_Screen_BE_Umschalter_Liste.jpg)
 
 ![BulkOrder_frontend_listview_switch.jpg](http://doku.agentur-triebwerk-shop.de/bulkorder/BulkOrder_frontend_listview_switch.jpg)
 
 #### Bewertungssterne in Listendarstellung ausblenden
 Unterbinden Sie die Anzeige der Bewertungssterne in den Listenansichten von Massenbestellung
 
-
+![BulkOrder_Screen_BE_Bewertungen_ausbelden.jpg](http://doku.agentur-triebwerk-shop.de/bulkorder/BulkOrder_Screen_BE_Bewertungen_ausbelden.jpg)
 
 
 
