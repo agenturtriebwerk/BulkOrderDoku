@@ -4,7 +4,8 @@ Massenbestellung (BulkOrder)
 Massenbestellung ist ein Shopware-Plugin und kann über den Shopware Community Store bezogen werden: 
 Beschreibung und Download im Shopware Community Store.
 
-Deutsch: http://store.shopware.com/triebw00878/massenbestellung.html 
+Deutsch: http://store.shopware.com/triebw00878/massenbestellung.html
+
 English: http://store.shopware.com/en/triebw00878/bulk-order.html
 
 ### Beschreibung
@@ -79,7 +80,7 @@ Unterbinden Sie die Anzeige der Bewertungssterne in den Listenansichten von Mass
 
 ![BulkOrder_Screen_BE_Bewertungen_ausbelden.jpg](http://doku.agentur-triebwerk-shop.de/bulkorder/BulkOrder_Screen_BE_Bewertungen_ausbelden.jpg)
 
-
+![BulkOrder_Screen_FE_Bewertungssterne.jpg](http://doku.agentur-triebwerk-shop.de/bulkorder/BulkOrder_Screen_FE_Bewertungssterne.jpg)
 
 ## Plugin-Anpassung  
 ### Bezeichnungen ändern
