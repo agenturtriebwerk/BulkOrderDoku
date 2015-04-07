@@ -111,5 +111,6 @@ Wenn Sie Fragen zur Plugin-Verträglichkeit der Massenbestellung haben, kontakti
 * Shopware Developer Toolbar: 
 Wenn die Toolbar für das Frontend aktiviert ist, kann es zu Problemen mit dem verfügbaren Speicher von PHP kommen
  
-
+* Responsive Template von Conexco
+Das Plugin harmoniert mit den shopware-standard Templates. Bei Templates von Drittanbietern bitte die Verräglichkeit vorher prüfen
 
